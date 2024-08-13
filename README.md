@@ -16,6 +16,14 @@
    1.Implement Shape hierarchy with Circle, Square, and Triangle classes added user input for area calculations <br>
    2 Implement the program Rectangle class with width and height methods and added user input and area calculation <br>
 
+<h2>Task8</h2>
+<br>
+   1.Implement function to find the largest element in a list and handle user input for numbers <br>
+   2.Add feature to find second largest element from user input, including duplicate removal and unique number display <br>
+   3.Add functionality to count words and display unique words from user input text <br>
+   4.Fix duplicate removal for user input and display unique numbers <br>
+
+
 
 
 
