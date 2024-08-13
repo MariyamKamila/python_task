@@ -24,6 +24,8 @@ else:
 ### find the second largest element in a list:
 user_input= input("enter the numbers :")
 number=list(map(int,user_input.split()))
+unique_number=list(set(number))
+print("the entered number is :",unique_number)
 number=sorted(set(number),reverse=True)
 if len(number)>=2:
     print("The second largest element is :",number[1])
