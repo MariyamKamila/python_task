@@ -18,18 +18,10 @@
    
 <h2>Task4</h2>
 <br>
-   1. Developed a program to simulate a dice rolling game:
-   - Rolls a dice until a 6 is rolled.
-   - Counts and prints the number of rolls it takes to get a 6 using a break statement.<br>
-
-   2. Created a Teacher class:
-   - Includes attributes for name, age, and a private salary.
-   - Added methods to get and set the salary, ensuring the salary cannot be accessed directly outside the class.<br>
-
-   3. Added a Person class:
-   - Includes attributes for name, country, and date of birth.
-   - Implemented a method to calculate and determine the person's age.<br>
-
+   1.Created a program that rolls a dice until a 6 is rolled, and counts how many rolls it takes.<br>
+   2.Created a Teacher class with name, age, and private salary attributes. Added methods to view and update the salary safely.<br>
+   3.Added a Person class with name, country, and date of birth. Included a method to calculate the person's age.<br>
+   
 <h2>Task8</h2>
 <br>
    1.Implement function to find the largest element in a list and handle user input for numbers <br>
