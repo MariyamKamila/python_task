@@ -18,7 +18,7 @@
    
 <h2>Task4</h2>
 <br>
-   1. Developed a program to simulate a dice rolling game:
+1. Developed a program to simulate a dice rolling game:
    - Rolls a dice until a 6 is rolled.
    - Counts and prints the number of rolls it takes to get a 6 using a break statement.<br>
 
