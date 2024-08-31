@@ -29,6 +29,12 @@
    3.Add functionality to count words and display unique words from user input text <br>
    4.Fix duplicate removal for user input and display unique numbers <br>
 
+<h2>Task10</h2>
+<br>
+1.Add function to calculate total sum, length, and average of input numbers with formatted output <br>
+2.Add function to calculate the sum and length of input numbers with user input handling and formatted output <br>
+3.Implement prime-checking function with user input and detailed output messages <br>
+
 
 
 
